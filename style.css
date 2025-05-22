@@ -1,0 +1,72 @@
+.titulo-escola {
+    font-size: 24px; /* Fonte menor */
+}
+
+.texto-um-escola,
+.texto-dois-escola {
+    font-size: 14px; /* Fonte menor */
+}
+
+.casas-titulo {
+    font-size: 24px; /* Fonte menor */
+    margin-bottom: 20px; /* Margem menor */
+}
+
+.casas-container {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Colunas ajustadas */
+    grid-template-columns: 1fr; /* Forçar 1 coluna */
+    gap: 10px; /* Espaço menor */
+}
+
+.casa-card {
+    padding: 15px; /* Preenchimento menor */
+}
+
+.casa-card h3 {
+    font-size: 16px; /* Fonte menor */
+}
+
+.casa-card p {
+    font-size: 12px; /* Fonte menor */
+}
+
+.estudante-título {
+    font-size: 24px; /* Fonte menor */
+    padding: 5px 0 15px; /* Preenchimento menor */
+}
+
+.estudantes-todos {
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); /* Colunas ajustadas */
+    gap: 8px; /* Espaço menor */
+}
+
+.imagem-estudante {
+    width: 60px; /* Imagem menor */
+    height: 60px; /* Imagem menor */
+}
+
+.estudante-nome {
+    font-size: 12px; /* Fonte menor */
+}
+
+.rodape-texto {
+    font-size: 12px; /* Fonte menor */
+}
+
+.cabecalho {
+    padding: 15px 5%; /* Preenchimento menor */
+}
+
+.cabecalho-lista {
+    gap: 10px; /* Espaço menor */
+}
+
+.cabecalho-lista a {
+    padding: 8px 10px; /* Preenchimento menor */
+    font-size: 14px; /* Fonte menor */
+}
+
+.imagem-cabecalho {
+    width: 80px; /* Imagem menor */
+}
+}
